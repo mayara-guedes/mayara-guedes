@@ -1,6 +1,6 @@
 ## Olá!  Bem-vindo(a) ao meu perfil!
 
-### Olá!! Eu sou Mayara Guedes, apaixonada por tecnologia e em busca constante por conhecimento!
+### Eu sou Mayara Guedes, apaixonada por tecnologia e em busca constante por conhecimento!
 
  <div>
   <a href="https://github.com/mayara-guedes">
