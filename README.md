@@ -1,6 +1,6 @@
 ## Olá!  Bem-vindo(a) ao meu perfil!
 
-### Eu sou Mayara Guedes, estudante do curso DevClub - Full Stack Pro
+### Olá!! Eu sou Mayara Guedes, apaixonada por tecnologia e em busca constante por conhecimento!
 
  <div>
   <a href="https://github.com/mayara-guedes">
